@@ -1,0 +1,1 @@
+# dolar-paralelo-bolivia-arima
